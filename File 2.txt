@@ -2,4 +2,4 @@ This is File 2
 i changed this file
 
 
-file -22
+file 2
